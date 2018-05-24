@@ -1,0 +1,15 @@
+{
+  "name": "utopian-task",
+  "version": "1.0.0",
+  "description": "Utopian Task https://steemit.com/utopian-io/@utopian.tasks/js-developers-and-regex-experts-wanted-javascript-coding-task",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "superoo7",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^22.4.4"
+  }
+}
